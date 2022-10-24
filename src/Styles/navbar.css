@@ -1,0 +1,14 @@
+.navbar {
+  background-color: #9b9b9b;
+}
+.nav-item #logo{
+  background-color: black;
+}
+
+b:hover{
+  color: rgb(231, 85, 32);
+}
+a:hover{
+  color: rgb(198, 71, 24);
+}
+
